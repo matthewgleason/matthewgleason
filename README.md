@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewgleason
-- 👀 I’m interested in Software Development, Mobile App Development, Web App Development, and Data Engineering.
+- 👀 I’m interested in Software Development, Mobile App Development, Web App Development, Machine Learning, and Data Engineering.
 - 🌱 I’m currently learning Computer Science at the University of Arizona.
-- 💞️ I’m looking to collaborate on Mobile App p rojects and Software Development projects.
+- 💞️ I’m looking to collaborate on Mobile App projects, Machine Learning Projects, and Software Development projects.
 - 📫 How to reach me at my email at matthewgleason@email.arizona.edu
 
 <!---
